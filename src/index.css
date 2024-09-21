@@ -1,0 +1,9 @@
+/* hah om sai ram om bhaskaraya namaha om namaha sivayaa */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden;
+}
