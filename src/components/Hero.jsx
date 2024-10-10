@@ -56,7 +56,7 @@ const HeroSection = () => {
           <div
             key={item.id}
             className={`w-3 h-3 mx-1 rounded-full transition-all duration-300 ${
-              index === currentIndex ? "bg-azure w-4 h-4" : "bg-gray-300"
+              index === currentIndex ? "bg-azure w-3 h-3" : "bg-gray-300"
             }`}
           ></div>
         ))}
